@@ -1,0 +1,6 @@
+{
+"require":{
+    "guzzle/guzzle": "3.9.0",
+    "php" : ">=5.3.3"
+  }
+}
